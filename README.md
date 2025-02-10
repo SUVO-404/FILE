@@ -1,4 +1,4 @@
-# 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 𝙻𝙸𝚂𝚃 𝚁𝙰𝚆 𝙳𝙰𝚃𝙰 [𝚄𝙸𝙳|𝙽𝙰𝙼𝙴] 𝙴𝚇𝚃𝚁𝙰𝙲𝚃 𝚃𝙾𝙾𝙻 𝙱𝚈 𝚂𝙷𝙰𝙹𝙾𝙽.
+# 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 𝙻𝙸𝚂𝚃 𝚁𝙰𝚆 𝙳𝙰𝚃𝙰 [𝚄𝙸𝙳|𝙽𝙰𝙼𝙴] 𝙴𝚇𝚃𝚁𝙰𝙲𝚃 𝚃𝙾𝙾𝙻 𝙱𝚈 SUVO.
 
 ## 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : python3.13
 <p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
@@ -16,10 +16,10 @@
     <td><img src="https://raw.githubusercontent.com/SUVO-404/FILE/refs/heads/main/IMAGE/dump.jpg" alt="Dumping Image" width="450"></td>
   </tr>
 </table>
-<p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SUVO-404/SUVO-404/main/assests/Rainbow.gif" width="100%"></p>
 
 ## :rocket: 𝗜𝗡𝗦𝗧𝗔𝗟𝗟 𝗣𝗥𝗢𝗖𝗘𝗦𝗦 𝗙𝗢𝗥 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟
-<p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SUVO-404/SUVO-404/main/assests/Rainbow.gif" width="100%"></p>
 
 ```
 cd $HOME
@@ -29,5 +29,5 @@ cd FILE
 chmod 777 FILE
 ./FILE
 ```
-<p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/thank_you.jpg" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SUVO-404/SUVO-404/main/assests/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SUVO-404/SUVO-404/main/assests/thank_you.jpg" width="100%"></p>

@@ -24,7 +24,7 @@
 ```
 cd $HOME
 rm -rf FILE
-git clone --depth=1 https://github.com/SHAJON-404/FILE.git
+git clone --depth=1 https://github.com/SUVO-404/FILE.git
 cd FILE
 chmod 777 FILE
 ./FILE
